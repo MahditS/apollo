@@ -1,16 +1,11 @@
-# apollo
+# Apollo
 
-A new Flutter project.
+A Flutter App which scrapes top news stories from various websites and delivers them straight to you. Browse through the latest world new.
 
-## Getting Started
+## Check out the demo video I made on it!
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center">
+    <a href="https://youtu.be/XEL13NF7Wks">
+        <img src="https://th.bing.com/th/id/R.94a67bc652e2c46a1f9294ab5165db3e?rik=743uMBzo4Hxi2A&pid=ImgRaw&r=0" alt="Yotube" width="200"/>
+    </a>
+</div>
